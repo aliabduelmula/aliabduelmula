@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Ali Abduelmula.
-- 
+- 👋 Hi, I’m Ali Abduelmula
